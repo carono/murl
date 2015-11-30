@@ -1,5 +1,5 @@
 <?php
-namespace carono\components\murl;
+namespace carono\murl;
 
 class Agent
 {

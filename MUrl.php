@@ -1,5 +1,5 @@
 <?php
-namespace carono\components\murl;
+namespace carono\murl;
 /**
  * @property Header                $headers
  * @property Header                $response_headers
