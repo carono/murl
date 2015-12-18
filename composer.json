@@ -1,5 +1,6 @@
 {
   "name": "carono/murl",
+  "version": "0.1.0",
   "description": "Wrapper for curl",
   "type": "curl",
   "keywords": ["curl"],
